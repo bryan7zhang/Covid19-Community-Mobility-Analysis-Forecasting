@@ -1,0 +1,91 @@
+file                                   sources              retrieval date          link
+2020_CA_Region_Mobility_Report.csv     Google Mobility      Nov.21                   https://www.google.com/covid19/mobility/
+applemobilitytrends-2020-11-21.csv     Apple Mobility       Nov.21                   https://covid19.apple.com/mobility
+covid19.csv                            Stats Canada         Nov.21                   https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html
+holiday.json                           Open Canada          Nov.22                   https://canada-holidays.ca/api/v1/provinces
+covid-stringency-index.csv             University of Oxford Nov.22                   https://ourworldindata.org/grapher/covid-stringency-index
+ca_population.csv                      Stats Canada         Nov.29                   https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901
+
+==============================================
+processed covid19.csv
+**********************************************
+RangeIndex: 3642 entries, 0 to 3641
+Data columns (total 7 columns):
+ #   Column      Non-Null Count  Dtype
+---  ------      --------------  -----
+ 0   date        3642 non-null   datetime64[ns]
+ 1   region      3642 non-null   object
+ 2   numtotal    3642 non-null   int64
+ 3   numdeaths   3585 non-null   float64
+ 4   numactive   3246 non-null   float64
+ 5   numtoday    3642 non-null   int64
+ 6   ratetested  3334 non-null   float64
+dtypes: datetime64[ns](1), float64(3), int64(2), object(1)
+memory usage: 199.3+ KB
+==============================================
+
+
+==============================================
+processed 2020_CA_Region_Mobility_Report.csv
+**********************************************
+Int64Index: 3516 entries, 0 to 61628
+Data columns (total 8 columns):
+ #   Column                 Non-Null Count  Dtype
+---  ------                 --------------  -----
+ 0   date                   3516 non-null   datetime64[ns]
+ 1   region                 3516 non-null   object
+ 2   retail_and_recreation  3238 non-null   float64
+ 3   grocery_and_pharmacy   2940 non-null   float64
+ 4   parks                  2393 non-null   float64
+ 5   transit_stations       2725 non-null   float64
+ 6   workplaces             3475 non-null   float64
+ 7   residential            2809 non-null   float64
+dtypes: datetime64[ns](1), float64(6), object(1)
+memory usage: 247.2+ KB
+==============================================
+
+
+==============================================
+processed applemobilitytrends-2020-11-04.csv
+**********************************************
+Int64Index: 4455 entries, 0 to 296
+Data columns (total 5 columns):
+ #   Column   Non-Null Count  Dtype
+---  ------   --------------  -----
+ 0   date     4455 non-null   datetime64[ns]
+ 1   driving  3540 non-null   object
+ 2   walking  2968 non-null   object
+ 3   transit  2374 non-null   object
+ 4   region   4455 non-null   object
+dtypes: datetime64[ns](1), object(4)
+memory usage: 208.8+ KB
+==============================================
+
+==============================================
+processed covid-stringency-index.csv
+**********************************************
+RangeIndex: 326 entries, 0 to 325
+Data columns (total 2 columns):
+ #   Column            Non-Null Count  Dtype
+---  ------            --------------  -----
+ 0   date              326 non-null    datetime64[ns]
+ 1   stringency_index  326 non-null    float64
+dtypes: datetime64[ns](1), float64(1)
+memory usage: 5.2 KB
+==============================================
+
+==============================================
+processed holiday.json
+**********************************************
+Int64Index: 5490 entries, 0 to 365
+Data columns (total 5 columns):
+ #   Column                    Non-Null Count  Dtype
+---  ------                    --------------  -----
+ 0   date                      5490 non-null   datetime64[ns]
+ 1   days_post_first_outbreak  5490 non-null   timedelta64[ns]
+ 2   day_of_week               5490 non-null   int64
+ 3   holiday                   5490 non-null   int32
+ 4   region                    5490 non-null   object
+dtypes: datetime64[ns](1), int32(1), int64(1), object(1), timedelta64[ns](1)
+memory usage: 235.9+ KB
+==============================================

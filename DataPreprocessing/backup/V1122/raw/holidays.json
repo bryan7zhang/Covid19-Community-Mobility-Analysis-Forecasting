@@ -1,0 +1,1153 @@
+{
+  "provinces": [
+    {
+      "id": "AB",
+      "nameEn": "Alberta",
+      "nameFr": "Alberta",
+      "sourceLink": "https://www.alberta.ca/alberta-general-holidays.aspx#toc-1",
+      "sourceEn": "General holidays in Alberta",
+      "holidays": [
+        {
+          "id": 1,
+          "date": "2020-01-01",
+          "nameEn": "New Year’s Day",
+          "nameFr": "Jour de l’An",
+          "federal": 1,
+          "observedDate": "2020-01-01"
+        },
+        {
+          "id": 4,
+          "date": "2020-02-17",
+          "nameEn": "Family Day",
+          "nameFr": "Fête de la famille",
+          "federal": 0,
+          "observedDate": "2020-02-17"
+        },
+        {
+          "id": 7,
+          "date": "2020-04-10",
+          "nameEn": "Good Friday",
+          "nameFr": "Vendredi saint",
+          "federal": 1,
+          "observedDate": "2020-04-10"
+        },
+        {
+          "id": 11,
+          "date": "2020-05-18",
+          "nameEn": "Victoria Day",
+          "nameFr": "Fête de la Reine",
+          "federal": 1,
+          "observedDate": "2020-05-18"
+        },
+        {
+          "id": 15,
+          "date": "2020-07-01",
+          "nameEn": "Canada Day",
+          "nameFr": "Fête du Canada",
+          "federal": 1,
+          "observedDate": "2020-07-01"
+        },
+        {
+          "id": 23,
+          "date": "2020-09-07",
+          "nameEn": "Labour Day",
+          "nameFr": "Fête du travail",
+          "federal": 1,
+          "observedDate": "2020-09-07"
+        },
+        {
+          "id": 24,
+          "date": "2020-10-12",
+          "nameEn": "Thanksgiving",
+          "nameFr": "Action de grâce",
+          "federal": 1,
+          "observedDate": "2020-10-12"
+        },
+        {
+          "id": 25,
+          "date": "2020-11-11",
+          "nameEn": "Remembrance Day",
+          "nameFr": "Jour du Souvenir",
+          "federal": 1,
+          "observedDate": "2020-11-11"
+        },
+        {
+          "id": 26,
+          "date": "2020-12-25",
+          "nameEn": "Christmas Day",
+          "nameFr": "Noël",
+          "federal": 1,
+          "observedDate": "2020-12-25"
+        }
+      ],
+      "nextHoliday": {
+        "id": 26,
+        "date": "2020-12-25",
+        "nameEn": "Christmas Day",
+        "nameFr": "Noël",
+        "federal": 1,
+        "observedDate": "2020-12-25"
+      }
+    },
+    {
+      "id": "BC",
+      "nameEn": "British Columbia",
+      "nameFr": "Colombie-Britannique",
+      "sourceLink": "https://www2.gov.bc.ca/gov/content/employment-business/employment-standards-advice/employment-standards/statutory-holidays#body",
+      "sourceEn": "Statutory Holidays in British Columbia",
+      "holidays": [
+        {
+          "id": 1,
+          "date": "2020-01-01",
+          "nameEn": "New Year’s Day",
+          "nameFr": "Jour de l’An",
+          "federal": 1,
+          "observedDate": "2020-01-01"
+        },
+        {
+          "id": 4,
+          "date": "2020-02-17",
+          "nameEn": "Family Day",
+          "nameFr": "Fête de la famille",
+          "federal": 0,
+          "observedDate": "2020-02-17"
+        },
+        {
+          "id": 7,
+          "date": "2020-04-10",
+          "nameEn": "Good Friday",
+          "nameFr": "Vendredi saint",
+          "federal": 1,
+          "observedDate": "2020-04-10"
+        },
+        {
+          "id": 11,
+          "date": "2020-05-18",
+          "nameEn": "Victoria Day",
+          "nameFr": "Fête de la Reine",
+          "federal": 1,
+          "observedDate": "2020-05-18"
+        },
+        {
+          "id": 15,
+          "date": "2020-07-01",
+          "nameEn": "Canada Day",
+          "nameFr": "Fête du Canada",
+          "federal": 1,
+          "observedDate": "2020-07-01"
+        },
+        {
+          "id": 18,
+          "date": "2020-08-03",
+          "nameEn": "British Columbia Day",
+          "nameFr": "Jour de Colombie-Britannique",
+          "federal": 0,
+          "observedDate": "2020-08-03"
+        },
+        {
+          "id": 23,
+          "date": "2020-09-07",
+          "nameEn": "Labour Day",
+          "nameFr": "Fête du travail",
+          "federal": 1,
+          "observedDate": "2020-09-07"
+        },
+        {
+          "id": 24,
+          "date": "2020-10-12",
+          "nameEn": "Thanksgiving",
+          "nameFr": "Action de grâce",
+          "federal": 1,
+          "observedDate": "2020-10-12"
+        },
+        {
+          "id": 25,
+          "date": "2020-11-11",
+          "nameEn": "Remembrance Day",
+          "nameFr": "Jour du Souvenir",
+          "federal": 1,
+          "observedDate": "2020-11-11"
+        },
+        {
+          "id": 26,
+          "date": "2020-12-25",
+          "nameEn": "Christmas Day",
+          "nameFr": "Noël",
+          "federal": 1,
+          "observedDate": "2020-12-25"
+        }
+      ],
+      "nextHoliday": {
+        "id": 26,
+        "date": "2020-12-25",
+        "nameEn": "Christmas Day",
+        "nameFr": "Noël",
+        "federal": 1,
+        "observedDate": "2020-12-25"
+      }
+    },
+    {
+      "id": "MB",
+      "nameEn": "Manitoba",
+      "nameFr": "Manitoba",
+      "sourceLink": "https://www.gov.mb.ca/labour/standards/doc,gen-holidays-after-april-30-07,factsheet.html#q12",
+      "sourceEn": "General holidays in Manitoba",
+      "holidays": [
+        {
+          "id": 1,
+          "date": "2020-01-01",
+          "nameEn": "New Year’s Day",
+          "nameFr": "Jour de l’An",
+          "federal": 1,
+          "observedDate": "2020-01-01"
+        },
+        {
+          "id": 2,
+          "date": "2020-02-17",
+          "nameEn": "Louis Riel Day",
+          "nameFr": "Journée Louis Riel",
+          "federal": 0,
+          "observedDate": "2020-02-17"
+        },
+        {
+          "id": 7,
+          "date": "2020-04-10",
+          "nameEn": "Good Friday",
+          "nameFr": "Vendredi saint",
+          "federal": 1,
+          "observedDate": "2020-04-10"
+        },
+        {
+          "id": 11,
+          "date": "2020-05-18",
+          "nameEn": "Victoria Day",
+          "nameFr": "Fête de la Reine",
+          "federal": 1,
+          "observedDate": "2020-05-18"
+        },
+        {
+          "id": 15,
+          "date": "2020-07-01",
+          "nameEn": "Canada Day",
+          "nameFr": "Fête du Canada",
+          "federal": 1,
+          "observedDate": "2020-07-01"
+        },
+        {
+          "id": 23,
+          "date": "2020-09-07",
+          "nameEn": "Labour Day",
+          "nameFr": "Fête du travail",
+          "federal": 1,
+          "observedDate": "2020-09-07"
+        },
+        {
+          "id": 24,
+          "date": "2020-10-12",
+          "nameEn": "Thanksgiving",
+          "nameFr": "Action de grâce",
+          "federal": 1,
+          "observedDate": "2020-10-12"
+        },
+        {
+          "id": 26,
+          "date": "2020-12-25",
+          "nameEn": "Christmas Day",
+          "nameFr": "Noël",
+          "federal": 1,
+          "observedDate": "2020-12-25"
+        }
+      ],
+      "nextHoliday": {
+        "id": 26,
+        "date": "2020-12-25",
+        "nameEn": "Christmas Day",
+        "nameFr": "Noël",
+        "federal": 1,
+        "observedDate": "2020-12-25"
+      }
+    },
+    {
+      "id": "NB",
+      "nameEn": "New Brunswick",
+      "nameFr": "Nouveau-Brunswick",
+      "sourceLink": "https://www2.gnb.ca/content/gnb/en/departments/elg/local_government/content/governance/content/days_of_rest_act/faq.html#2",
+      "sourceEn": "10 prescribed days of rest",
+      "holidays": [
+        {
+          "id": 1,
+          "date": "2020-01-01",
+          "nameEn": "New Year’s Day",
+          "nameFr": "Jour de l’An",
+          "federal": 1,
+          "observedDate": "2020-01-01"
+        },
+        {
+          "id": 4,
+          "date": "2020-02-17",
+          "nameEn": "Family Day",
+          "nameFr": "Fête de la famille",
+          "federal": 0,
+          "observedDate": "2020-02-17"
+        },
+        {
+          "id": 7,
+          "date": "2020-04-10",
+          "nameEn": "Good Friday",
+          "nameFr": "Vendredi saint",
+          "federal": 1,
+          "observedDate": "2020-04-10"
+        },
+        {
+          "id": 15,
+          "date": "2020-07-01",
+          "nameEn": "Canada Day",
+          "nameFr": "Fête du Canada",
+          "federal": 1,
+          "observedDate": "2020-07-01"
+        },
+        {
+          "id": 19,
+          "date": "2020-08-03",
+          "nameEn": "New Brunswick Day",
+          "nameFr": "Jour de Nouveau Brunswick",
+          "federal": 0,
+          "observedDate": "2020-08-03"
+        },
+        {
+          "id": 23,
+          "date": "2020-09-07",
+          "nameEn": "Labour Day",
+          "nameFr": "Fête du travail",
+          "federal": 1,
+          "observedDate": "2020-09-07"
+        },
+        {
+          "id": 25,
+          "date": "2020-11-11",
+          "nameEn": "Remembrance Day",
+          "nameFr": "Jour du Souvenir",
+          "federal": 1,
+          "observedDate": "2020-11-11"
+        },
+        {
+          "id": 26,
+          "date": "2020-12-25",
+          "nameEn": "Christmas Day",
+          "nameFr": "Noël",
+          "federal": 1,
+          "observedDate": "2020-12-25"
+        }
+      ],
+      "nextHoliday": {
+        "id": 26,
+        "date": "2020-12-25",
+        "nameEn": "Christmas Day",
+        "nameFr": "Noël",
+        "federal": 1,
+        "observedDate": "2020-12-25"
+      }
+    },
+    {
+      "id": "NL",
+      "nameEn": "Newfoundland and Labrador",
+      "nameFr": "Terre-Neuve-et-Labrador",
+      "sourceLink": "https://gist.github.com/pcraig3/81dff348ddf52777c9f918c3032531bd",
+      "sourceEn": "Public holidays in Newfoundland",
+      "holidays": [
+        {
+          "id": 1,
+          "date": "2020-01-01",
+          "nameEn": "New Year’s Day",
+          "nameFr": "Jour de l’An",
+          "federal": 1,
+          "observedDate": "2020-01-01"
+        },
+        {
+          "id": 6,
+          "date": "2020-03-17",
+          "nameEn": "Saint Patrick’s Day",
+          "nameFr": "Jour de la Saint-Patrick",
+          "federal": 0,
+          "observedDate": "2020-03-16"
+        },
+        {
+          "id": 7,
+          "date": "2020-04-10",
+          "nameEn": "Good Friday",
+          "nameFr": "Vendredi saint",
+          "federal": 1,
+          "observedDate": "2020-04-10"
+        },
+        {
+          "id": 9,
+          "date": "2020-04-23",
+          "nameEn": "Saint George’s Day",
+          "nameFr": "Jour de St. George",
+          "federal": 0,
+          "observedDate": "2020-04-20"
+        },
+        {
+          "id": 13,
+          "date": "2020-06-24",
+          "nameEn": "Discovery Day",
+          "nameFr": "Journée découverte",
+          "federal": 0,
+          "observedDate": "2020-06-22"
+        },
+        {
+          "id": 15,
+          "date": "2020-07-01",
+          "nameEn": "Canada Day",
+          "nameFr": "Fête du Canada",
+          "federal": 1,
+          "observedDate": "2020-07-01"
+        },
+        {
+          "id": 16,
+          "date": "2020-07-12",
+          "nameEn": "Orangemen’s Day",
+          "nameFr": "Fête des orangistes",
+          "federal": 0,
+          "observedDate": "2020-07-13"
+        },
+        {
+          "id": 21,
+          "date": "2020-08-05",
+          "nameEn": "Regatta Day",
+          "nameFr": "Journée des régates",
+          "federal": 0,
+          "observedDate": "2020-08-05"
+        },
+        {
+          "id": 23,
+          "date": "2020-09-07",
+          "nameEn": "Labour Day",
+          "nameFr": "Fête du travail",
+          "federal": 1,
+          "observedDate": "2020-09-07"
+        },
+        {
+          "id": 25,
+          "date": "2020-11-11",
+          "nameEn": "Remembrance Day",
+          "nameFr": "Jour du Souvenir",
+          "federal": 1,
+          "observedDate": "2020-11-11"
+        },
+        {
+          "id": 26,
+          "date": "2020-12-25",
+          "nameEn": "Christmas Day",
+          "nameFr": "Noël",
+          "federal": 1,
+          "observedDate": "2020-12-25"
+        },
+        {
+          "id": 27,
+          "date": "2020-12-26",
+          "nameEn": "Boxing Day",
+          "nameFr": "Lendemain de Noël",
+          "federal": 1,
+          "observedDate": "2020-12-28"
+        }
+      ],
+      "nextHoliday": {
+        "id": 26,
+        "date": "2020-12-25",
+        "nameEn": "Christmas Day",
+        "nameFr": "Noël",
+        "federal": 1,
+        "observedDate": "2020-12-25"
+      }
+    },
+    {
+      "id": "NS",
+      "nameEn": "Nova Scotia",
+      "nameFr": "Nouvelle-Écosse",
+      "sourceLink": "https://novascotia.ca/lae/employmentrights/holidaychart.asp",
+      "sourceEn": "Paid holidays in Nova Scotia",
+      "holidays": [
+        {
+          "id": 1,
+          "date": "2020-01-01",
+          "nameEn": "New Year’s Day",
+          "nameFr": "Jour de l’An",
+          "federal": 1,
+          "observedDate": "2020-01-01"
+        },
+        {
+          "id": 5,
+          "date": "2020-02-17",
+          "nameEn": "Heritage Day",
+          "nameFr": "Fête du Patrimoine",
+          "federal": 0,
+          "observedDate": "2020-02-17"
+        },
+        {
+          "id": 7,
+          "date": "2020-04-10",
+          "nameEn": "Good Friday",
+          "nameFr": "Vendredi saint",
+          "federal": 1,
+          "observedDate": "2020-04-10"
+        },
+        {
+          "id": 15,
+          "date": "2020-07-01",
+          "nameEn": "Canada Day",
+          "nameFr": "Fête du Canada",
+          "federal": 1,
+          "observedDate": "2020-07-01"
+        },
+        {
+          "id": 23,
+          "date": "2020-09-07",
+          "nameEn": "Labour Day",
+          "nameFr": "Fête du travail",
+          "federal": 1,
+          "observedDate": "2020-09-07"
+        },
+        {
+          "id": 26,
+          "date": "2020-12-25",
+          "nameEn": "Christmas Day",
+          "nameFr": "Noël",
+          "federal": 1,
+          "observedDate": "2020-12-25"
+        }
+      ],
+      "nextHoliday": {
+        "id": 26,
+        "date": "2020-12-25",
+        "nameEn": "Christmas Day",
+        "nameFr": "Noël",
+        "federal": 1,
+        "observedDate": "2020-12-25"
+      }
+    },
+    {
+      "id": "NT",
+      "nameEn": "Northwest Territories",
+      "nameFr": "Territoires du Nord-Ouest",
+      "sourceLink": "https://www.ece.gov.nt.ca/en/services/employment-standards/frequently-asked-questions",
+      "sourceEn": "Employment Standards, Northwest Territories",
+      "holidays": [
+        {
+          "id": 1,
+          "date": "2020-01-01",
+          "nameEn": "New Year’s Day",
+          "nameFr": "Jour de l’An",
+          "federal": 1,
+          "observedDate": "2020-01-01"
+        },
+        {
+          "id": 7,
+          "date": "2020-04-10",
+          "nameEn": "Good Friday",
+          "nameFr": "Vendredi saint",
+          "federal": 1,
+          "observedDate": "2020-04-10"
+        },
+        {
+          "id": 11,
+          "date": "2020-05-18",
+          "nameEn": "Victoria Day",
+          "nameFr": "Fête de la Reine",
+          "federal": 1,
+          "observedDate": "2020-05-18"
+        },
+        {
+          "id": 12,
+          "date": "2020-06-21",
+          "nameEn": "National Indigenous Peoples Day",
+          "nameFr": "Journée nationale des peuples autochtones",
+          "federal": 0,
+          "observedDate": "2020-06-21"
+        },
+        {
+          "id": 15,
+          "date": "2020-07-01",
+          "nameEn": "Canada Day",
+          "nameFr": "Fête du Canada",
+          "federal": 1,
+          "observedDate": "2020-07-01"
+        },
+        {
+          "id": 17,
+          "date": "2020-08-03",
+          "nameEn": "Civic Holiday",
+          "nameFr": "Premier lundi d’août",
+          "federal": 1,
+          "observedDate": "2020-08-03"
+        },
+        {
+          "id": 23,
+          "date": "2020-09-07",
+          "nameEn": "Labour Day",
+          "nameFr": "Fête du travail",
+          "federal": 1,
+          "observedDate": "2020-09-07"
+        },
+        {
+          "id": 24,
+          "date": "2020-10-12",
+          "nameEn": "Thanksgiving",
+          "nameFr": "Action de grâce",
+          "federal": 1,
+          "observedDate": "2020-10-12"
+        },
+        {
+          "id": 25,
+          "date": "2020-11-11",
+          "nameEn": "Remembrance Day",
+          "nameFr": "Jour du Souvenir",
+          "federal": 1,
+          "observedDate": "2020-11-11"
+        },
+        {
+          "id": 26,
+          "date": "2020-12-25",
+          "nameEn": "Christmas Day",
+          "nameFr": "Noël",
+          "federal": 1,
+          "observedDate": "2020-12-25"
+        }
+      ],
+      "nextHoliday": {
+        "id": 26,
+        "date": "2020-12-25",
+        "nameEn": "Christmas Day",
+        "nameFr": "Noël",
+        "federal": 1,
+        "observedDate": "2020-12-25"
+      }
+    },
+    {
+      "id": "NU",
+      "nameEn": "Nunavut",
+      "nameFr": "Nunavut",
+      "sourceLink": "https://nu-lsco.ca/faq-s?tmpl=component&faqid=11",
+      "sourceEn": "Nunavut General Holidays",
+      "holidays": [
+        {
+          "id": 1,
+          "date": "2020-01-01",
+          "nameEn": "New Year’s Day",
+          "nameFr": "Jour de l’An",
+          "federal": 1,
+          "observedDate": "2020-01-01"
+        },
+        {
+          "id": 7,
+          "date": "2020-04-10",
+          "nameEn": "Good Friday",
+          "nameFr": "Vendredi saint",
+          "federal": 1,
+          "observedDate": "2020-04-10"
+        },
+        {
+          "id": 11,
+          "date": "2020-05-18",
+          "nameEn": "Victoria Day",
+          "nameFr": "Fête de la Reine",
+          "federal": 1,
+          "observedDate": "2020-05-18"
+        },
+        {
+          "id": 15,
+          "date": "2020-07-01",
+          "nameEn": "Canada Day",
+          "nameFr": "Fête du Canada",
+          "federal": 1,
+          "observedDate": "2020-07-01"
+        },
+        {
+          "id": 17,
+          "date": "2020-08-03",
+          "nameEn": "Civic Holiday",
+          "nameFr": "Premier lundi d’août",
+          "federal": 1,
+          "observedDate": "2020-08-03"
+        },
+        {
+          "id": 23,
+          "date": "2020-09-07",
+          "nameEn": "Labour Day",
+          "nameFr": "Fête du travail",
+          "federal": 1,
+          "observedDate": "2020-09-07"
+        },
+        {
+          "id": 24,
+          "date": "2020-10-12",
+          "nameEn": "Thanksgiving",
+          "nameFr": "Action de grâce",
+          "federal": 1,
+          "observedDate": "2020-10-12"
+        },
+        {
+          "id": 25,
+          "date": "2020-11-11",
+          "nameEn": "Remembrance Day",
+          "nameFr": "Jour du Souvenir",
+          "federal": 1,
+          "observedDate": "2020-11-11"
+        },
+        {
+          "id": 26,
+          "date": "2020-12-25",
+          "nameEn": "Christmas Day",
+          "nameFr": "Noël",
+          "federal": 1,
+          "observedDate": "2020-12-25"
+        }
+      ],
+      "nextHoliday": {
+        "id": 26,
+        "date": "2020-12-25",
+        "nameEn": "Christmas Day",
+        "nameFr": "Noël",
+        "federal": 1,
+        "observedDate": "2020-12-25"
+      }
+    },
+    {
+      "id": "ON",
+      "nameEn": "Ontario",
+      "nameFr": "Ontario",
+      "sourceLink": "https://www.ontario.ca/document/your-guide-employment-standards-act-0/public-holidays",
+      "sourceEn": "Ontario Public holidays",
+      "holidays": [
+        {
+          "id": 1,
+          "date": "2020-01-01",
+          "nameEn": "New Year’s Day",
+          "nameFr": "Jour de l’An",
+          "federal": 1,
+          "observedDate": "2020-01-01"
+        },
+        {
+          "id": 4,
+          "date": "2020-02-17",
+          "nameEn": "Family Day",
+          "nameFr": "Fête de la famille",
+          "federal": 0,
+          "observedDate": "2020-02-17"
+        },
+        {
+          "id": 7,
+          "date": "2020-04-10",
+          "nameEn": "Good Friday",
+          "nameFr": "Vendredi saint",
+          "federal": 1,
+          "observedDate": "2020-04-10"
+        },
+        {
+          "id": 11,
+          "date": "2020-05-18",
+          "nameEn": "Victoria Day",
+          "nameFr": "Fête de la Reine",
+          "federal": 1,
+          "observedDate": "2020-05-18"
+        },
+        {
+          "id": 15,
+          "date": "2020-07-01",
+          "nameEn": "Canada Day",
+          "nameFr": "Fête du Canada",
+          "federal": 1,
+          "observedDate": "2020-07-01"
+        },
+        {
+          "id": 23,
+          "date": "2020-09-07",
+          "nameEn": "Labour Day",
+          "nameFr": "Fête du travail",
+          "federal": 1,
+          "observedDate": "2020-09-07"
+        },
+        {
+          "id": 24,
+          "date": "2020-10-12",
+          "nameEn": "Thanksgiving",
+          "nameFr": "Action de grâce",
+          "federal": 1,
+          "observedDate": "2020-10-12"
+        },
+        {
+          "id": 26,
+          "date": "2020-12-25",
+          "nameEn": "Christmas Day",
+          "nameFr": "Noël",
+          "federal": 1,
+          "observedDate": "2020-12-25"
+        },
+        {
+          "id": 27,
+          "date": "2020-12-26",
+          "nameEn": "Boxing Day",
+          "nameFr": "Lendemain de Noël",
+          "federal": 1,
+          "observedDate": "2020-12-28"
+        }
+      ],
+      "nextHoliday": {
+        "id": 26,
+        "date": "2020-12-25",
+        "nameEn": "Christmas Day",
+        "nameFr": "Noël",
+        "federal": 1,
+        "observedDate": "2020-12-25"
+      }
+    },
+    {
+      "id": "PE",
+      "nameEn": "Prince Edward Island",
+      "nameFr": "Île-du-Prince-Édouard",
+      "sourceLink": "https://www.princeedwardisland.ca/en/information/economic-growth-tourism-and-culture/paid-holidays",
+      "sourceEn": "PEI Paid Holidays",
+      "holidays": [
+        {
+          "id": 1,
+          "date": "2020-01-01",
+          "nameEn": "New Year’s Day",
+          "nameFr": "Jour de l’An",
+          "federal": 1,
+          "observedDate": "2020-01-01"
+        },
+        {
+          "id": 3,
+          "date": "2020-02-17",
+          "nameEn": "Islander Day",
+          "nameFr": "Fête des Insulaires",
+          "federal": 0,
+          "observedDate": "2020-02-17"
+        },
+        {
+          "id": 7,
+          "date": "2020-04-10",
+          "nameEn": "Good Friday",
+          "nameFr": "Vendredi saint",
+          "federal": 1,
+          "observedDate": "2020-04-10"
+        },
+        {
+          "id": 15,
+          "date": "2020-07-01",
+          "nameEn": "Canada Day",
+          "nameFr": "Fête du Canada",
+          "federal": 1,
+          "observedDate": "2020-07-01"
+        },
+        {
+          "id": 23,
+          "date": "2020-09-07",
+          "nameEn": "Labour Day",
+          "nameFr": "Fête du travail",
+          "federal": 1,
+          "observedDate": "2020-09-07"
+        },
+        {
+          "id": 25,
+          "date": "2020-11-11",
+          "nameEn": "Remembrance Day",
+          "nameFr": "Jour du Souvenir",
+          "federal": 1,
+          "observedDate": "2020-11-11"
+        },
+        {
+          "id": 26,
+          "date": "2020-12-25",
+          "nameEn": "Christmas Day",
+          "nameFr": "Noël",
+          "federal": 1,
+          "observedDate": "2020-12-25"
+        }
+      ],
+      "nextHoliday": {
+        "id": 26,
+        "date": "2020-12-25",
+        "nameEn": "Christmas Day",
+        "nameFr": "Noël",
+        "federal": 1,
+        "observedDate": "2020-12-25"
+      }
+    },
+    {
+      "id": "QC",
+      "nameEn": "Quebec",
+      "nameFr": "Québec",
+      "sourceLink": "https://www2.gouv.qc.ca/entreprises/portail/quebec/ressourcesh?lang=fr&g=ressourcesh&sg=personnel&t=o&e=2318829344:3908165687",
+      "sourceEn": "Jours fériés, chômés et payés",
+      "holidays": [
+        {
+          "id": 1,
+          "date": "2020-01-01",
+          "nameEn": "New Year’s Day",
+          "nameFr": "Jour de l’An",
+          "federal": 1,
+          "observedDate": "2020-01-01"
+        },
+        {
+          "id": 7,
+          "date": "2020-04-10",
+          "nameEn": "Good Friday",
+          "nameFr": "Vendredi saint",
+          "federal": 1,
+          "observedDate": "2020-04-10"
+        },
+        {
+          "id": 10,
+          "date": "2020-05-18",
+          "nameEn": "National Patriots’ Day",
+          "nameFr": "Journée nationale des patriotes",
+          "federal": 0,
+          "observedDate": "2020-05-18"
+        },
+        {
+          "id": 14,
+          "date": "2020-06-24",
+          "nameEn": "Saint-Jean-Baptiste Day",
+          "nameFr": "Saint-Jean-Baptiste / Fête nationale du Québec",
+          "federal": 0,
+          "observedDate": "2020-06-24"
+        },
+        {
+          "id": 15,
+          "date": "2020-07-01",
+          "nameEn": "Canada Day",
+          "nameFr": "Fête du Canada",
+          "federal": 1,
+          "observedDate": "2020-07-01"
+        },
+        {
+          "id": 23,
+          "date": "2020-09-07",
+          "nameEn": "Labour Day",
+          "nameFr": "Fête du travail",
+          "federal": 1,
+          "observedDate": "2020-09-07"
+        },
+        {
+          "id": 24,
+          "date": "2020-10-12",
+          "nameEn": "Thanksgiving",
+          "nameFr": "Action de grâce",
+          "federal": 1,
+          "observedDate": "2020-10-12"
+        },
+        {
+          "id": 26,
+          "date": "2020-12-25",
+          "nameEn": "Christmas Day",
+          "nameFr": "Noël",
+          "federal": 1,
+          "observedDate": "2020-12-25"
+        }
+      ],
+      "nextHoliday": {
+        "id": 26,
+        "date": "2020-12-25",
+        "nameEn": "Christmas Day",
+        "nameFr": "Noël",
+        "federal": 1,
+        "observedDate": "2020-12-25"
+      }
+    },
+    {
+      "id": "SK",
+      "nameEn": "Saskatchewan",
+      "nameFr": "Saskatchewan",
+      "sourceLink": "https://www.saskatchewan.ca/business/employment-standards/vacations-holidays-leaves-and-absences/public-statutory-holidays/list-of-saskatchewan-public-holidays",
+      "sourceEn": "Saskatchewan Public Holidays",
+      "holidays": [
+        {
+          "id": 1,
+          "date": "2020-01-01",
+          "nameEn": "New Year’s Day",
+          "nameFr": "Jour de l’An",
+          "federal": 1,
+          "observedDate": "2020-01-01"
+        },
+        {
+          "id": 4,
+          "date": "2020-02-17",
+          "nameEn": "Family Day",
+          "nameFr": "Fête de la famille",
+          "federal": 0,
+          "observedDate": "2020-02-17"
+        },
+        {
+          "id": 7,
+          "date": "2020-04-10",
+          "nameEn": "Good Friday",
+          "nameFr": "Vendredi saint",
+          "federal": 1,
+          "observedDate": "2020-04-10"
+        },
+        {
+          "id": 11,
+          "date": "2020-05-18",
+          "nameEn": "Victoria Day",
+          "nameFr": "Fête de la Reine",
+          "federal": 1,
+          "observedDate": "2020-05-18"
+        },
+        {
+          "id": 15,
+          "date": "2020-07-01",
+          "nameEn": "Canada Day",
+          "nameFr": "Fête du Canada",
+          "federal": 1,
+          "observedDate": "2020-07-01"
+        },
+        {
+          "id": 20,
+          "date": "2020-08-03",
+          "nameEn": "Saskatchewan Day",
+          "nameFr": "Jour de Saskatchewan",
+          "federal": 0,
+          "observedDate": "2020-08-03"
+        },
+        {
+          "id": 23,
+          "date": "2020-09-07",
+          "nameEn": "Labour Day",
+          "nameFr": "Fête du travail",
+          "federal": 1,
+          "observedDate": "2020-09-07"
+        },
+        {
+          "id": 24,
+          "date": "2020-10-12",
+          "nameEn": "Thanksgiving",
+          "nameFr": "Action de grâce",
+          "federal": 1,
+          "observedDate": "2020-10-12"
+        },
+        {
+          "id": 25,
+          "date": "2020-11-11",
+          "nameEn": "Remembrance Day",
+          "nameFr": "Jour du Souvenir",
+          "federal": 1,
+          "observedDate": "2020-11-11"
+        },
+        {
+          "id": 26,
+          "date": "2020-12-25",
+          "nameEn": "Christmas Day",
+          "nameFr": "Noël",
+          "federal": 1,
+          "observedDate": "2020-12-25"
+        }
+      ],
+      "nextHoliday": {
+        "id": 26,
+        "date": "2020-12-25",
+        "nameEn": "Christmas Day",
+        "nameFr": "Noël",
+        "federal": 1,
+        "observedDate": "2020-12-25"
+      }
+    },
+    {
+      "id": "YT",
+      "nameEn": "Yukon",
+      "nameFr": "Yukon",
+      "sourceLink": "https://yukon.ca/en/doing-business/employer-responsibilities/find-yukon-statutory-holiday",
+      "sourceEn": "Yukon statutory holiday dates",
+      "holidays": [
+        {
+          "id": 1,
+          "date": "2020-01-01",
+          "nameEn": "New Year’s Day",
+          "nameFr": "Jour de l’An",
+          "federal": 1,
+          "observedDate": "2020-01-01"
+        },
+        {
+          "id": 7,
+          "date": "2020-04-10",
+          "nameEn": "Good Friday",
+          "nameFr": "Vendredi saint",
+          "federal": 1,
+          "observedDate": "2020-04-10"
+        },
+        {
+          "id": 11,
+          "date": "2020-05-18",
+          "nameEn": "Victoria Day",
+          "nameFr": "Fête de la Reine",
+          "federal": 1,
+          "observedDate": "2020-05-18"
+        },
+        {
+          "id": 12,
+          "date": "2020-06-21",
+          "nameEn": "National Indigenous Peoples Day",
+          "nameFr": "Journée nationale des peuples autochtones",
+          "federal": 0,
+          "observedDate": "2020-06-21"
+        },
+        {
+          "id": 15,
+          "date": "2020-07-01",
+          "nameEn": "Canada Day",
+          "nameFr": "Fête du Canada",
+          "federal": 1,
+          "observedDate": "2020-07-01"
+        },
+        {
+          "id": 22,
+          "date": "2020-08-17",
+          "nameEn": "Discovery Day",
+          "nameFr": "Jour de la Découverte",
+          "federal": 0,
+          "observedDate": "2020-08-17"
+        },
+        {
+          "id": 23,
+          "date": "2020-09-07",
+          "nameEn": "Labour Day",
+          "nameFr": "Fête du travail",
+          "federal": 1,
+          "observedDate": "2020-09-07"
+        },
+        {
+          "id": 24,
+          "date": "2020-10-12",
+          "nameEn": "Thanksgiving",
+          "nameFr": "Action de grâce",
+          "federal": 1,
+          "observedDate": "2020-10-12"
+        },
+        {
+          "id": 25,
+          "date": "2020-11-11",
+          "nameEn": "Remembrance Day",
+          "nameFr": "Jour du Souvenir",
+          "federal": 1,
+          "observedDate": "2020-11-11"
+        },
+        {
+          "id": 26,
+          "date": "2020-12-25",
+          "nameEn": "Christmas Day",
+          "nameFr": "Noël",
+          "federal": 1,
+          "observedDate": "2020-12-25"
+        }
+      ],
+      "nextHoliday": {
+        "id": 26,
+        "date": "2020-12-25",
+        "nameEn": "Christmas Day",
+        "nameFr": "Noël",
+        "federal": 1,
+        "observedDate": "2020-12-25"
+      }
+    }
+  ]
+}
