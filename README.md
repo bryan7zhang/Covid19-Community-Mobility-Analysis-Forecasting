@@ -9,8 +9,8 @@ Five datasets are chosen for this project in analysing the correlation between c
 and Covid-19 cases in Canada: 
  1. [Canada Covid-19 case dataset](https://health-infobase.canada.ca/covid-19/visual-data-gallery/) from StatCanada
  2. [Covid-19 Community Mobility Report](https://www.google.com/covid19/mobility/) from Google
- 3. [Covid-19 Mobility Trends Report from Apple](https://covid19.apple.com/mobility) from Apple
- 4. [Canada Holiday API from Open Canada](https://canada-holidays.ca/api/v1/provinces) from Open Canada
+ 3. [Covid-19 Mobility Trends Report](https://covid19.apple.com/mobility) from Apple
+ 4. [Canada Holiday API](https://canada-holidays.ca/api/v1/provinces) from Open Canada
  5. [Stringency index of OxCGRT](https://ourworldindata.org/grapher/covid-stringency-index) from University of Oxford
 
 
